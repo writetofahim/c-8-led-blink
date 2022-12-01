@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\toggleAllBits.obj" 
+TO ".\Objects\lab-task" 
+PRINT(".\Listings\lab-task.m51")
